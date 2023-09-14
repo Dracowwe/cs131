@@ -1,5 +1,0 @@
-    1  passwd
-    2  wget www.github.com
-    3  cd ~/Desktop
-    4  mkdir Worksheet1
-    5  history > cmd.logs

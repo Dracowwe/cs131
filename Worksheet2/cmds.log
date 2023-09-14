@@ -1,0 +1,230 @@
+    1  git status
+    2  git add .wget.hsts
+    3  git add cmd.logs
+    4  git commit -m "Commit message."
+    5  git push origin new-branch
+    6  git push origin master
+    7  git push git@github.com:git/git.git new-branch
+    8  git config stevenf23
+    9  git config stevenf23 Steven
+   10  passwd
+   11  wget www.github.com
+   12  cd ~/Desktop
+   13  mkdir Worksheet1
+   14  history > cmd.logs
+   15  ls
+   16  touch sha.txt
+   17  ls
+   18  git-status
+   19  git status
+   20  git add sha.txt
+   21  git remote add origin https://github.com/Dracowwe/cs131.git
+   22  git init
+   23  touch sha.txt
+   24  git status
+   25  git add sha.txt
+   26  git status
+   27  git commit -m "This is my first commit."
+   28  git checkout -b new-branch
+   29  git branch
+   30  git remote add origin https://github.com/Dracowwe/cs131.git
+   31  git push origin new-branch
+   32  git branch
+   33  ls
+   34  git checkout -b master
+   35  ls
+   36  git status
+   37  git checkout -b new-branch
+   38  git status
+   39  ls
+   40  git commit -m "This is my first commit!"
+   41  git config --global user.email "stevenha126@gmail.com"
+   42  git config --global user.name "Dracowwe"
+   43  git commit -m "This is my first commit!"
+   44  git status
+   45  ls
+   46  cdgit remote add origin git@github.com:Dracowwe/cs131.git
+   47  git remote add origin git@github.com:Dracowwe/cs131.git
+   48  git push
+   49  git push --set-upstream origin new-branch
+   50  git push origin new-branch
+   51  git push -u origin master
+   52  git branch
+   53  git branch master
+   54  git push -u origin new-branch
+   55  git branch
+   56  ls
+   57  git push git@github.com:Dracowwe/cs131.git new-branch
+   58  git branch
+   59  ls
+   60  git status
+   61  cd ~/.ssh && ssh-keygen
+   62  mkdir ~/.ssh
+   63  cat id_rsa.pub
+   64  cd ~/.ssh && ssh-keygen
+   65  ls
+   66  man ls
+   67  ls
+   68  git push
+   69  git push --set-upstream origin new-branch
+   70  man dir
+   71  dir
+   72  mkdir myproject
+   73  cd ~/Desktop
+   74  cd myproject/
+   75  git init
+   76  touch sha.txt
+   77  ls
+   78  cd /c/Worksheet1
+   79  man cd
+   80  cd Worksheet1
+   81  mkdir Worksheet1
+   82  ls
+   83  git init
+   84  ls
+   85  git status
+   86  git commit
+   87  git add sha.txt
+   88  git commit 
+   89  mkdir Worksheet1
+   90  cd /c/myproject
+   91  cd myproject/
+   92  cd Worksheet1
+   93  ls
+   94  git init
+   95  touch sha.txt
+   96  ls
+   97  git add sha.txt
+   98  git status
+   99  wget www.github.com
+  100  git commit -m "This is my first commit!"
+  101  git checkout -b new-branch
+  102  git branch
+  103  git remote add origin git@github.com:Dracowwe/cs131.git
+  104  git push -u origin master
+  105   cd ~/.ssh && ssh-keygen
+  106  SHA256:XHnrXxZ/HjQQCvUdlBtN25lArlZQecSc/CMpSw5QCWo stevenf23@sjsu.pic2.isv.ihost.com
+  107  git push --set-upstream origin master
+  108  ls
+  109  cd Worksheet1
+  110  git status
+  111  cat id_rsa.pub
+  112  cd myproject
+  113  git remote -v
+  114  cat id_rsa.pub
+  115  cd ~/.ssh && ssh-keygen
+  116  cd Worksheet1
+  117  cat id_rsa.pub
+  118  cd ~/.ssh && ssh-keygen
+  119  cat id_rsa.pub
+  120  git remote add origin git@github.com:Dracowwe/cs131.git
+  121  cd ..
+  122  ls
+  123  cd Worksheet1/
+  124  ls
+  125  git status
+  126  pwd
+  127  git push --set-upstream origin master
+  128  ls
+  129  git status
+  130  wget www.github.com
+  131  git status
+  132  touch sha.txt
+  133  git status
+  134  branch master
+  135  git checkout -b master
+  136  git branch
+  137  git checkout master
+  138  git status
+  139  history > cmds.log
+  140  git status
+  141  touch sha.txt
+  142  git status
+  143  git remote add origin git@github.com:Dracowwe/cs131.git
+  144  git push -u origin master
+  145  ls -ltr
+  146  ls
+  147  git commit -m "Message"
+  148  git push --set-upstream origin master
+  149  git remote add origin ssh://git@github.com:Dracowwe/cs131.git
+  150  git push -u origin master
+  151  git remote add origin ssh://git@github.com/Dracowwe/cs131.git
+  152  git branch -M main
+  153  git branch
+  154  git push -u origin main
+  155  git config --global user.name "Dracowwe"
+  156  git config --global user.email "stevenha126@gmail.com"
+  157  git push -u origin main
+  158  cd Worksheet1
+  159  git status
+  160  touch sha.txt
+  161  git status
+  162  git add sha.txt
+  163  git status
+  164  ls
+  165  git init
+  166  git status
+  167  cd ~/.ssh && ssh-keygen
+  168  cat id_rsa.pub
+  169  git status
+  170  git remote add origin git@github.com:Dracowwe/cs131.git
+  171  git commit -m "This is my first commit!"
+  172  git push --set-upstream origin master
+  173  git branch -M main
+  174  git branch
+  175  git push -u origin main
+  176   git clone git@github.com:Dracowwe/cs131.git
+  177  cd Worksheet1
+  178  mkdir Worksheet1
+  179  ls
+  180  history > cmds.log
+  181  ls
+  182  cd Worksheet1
+  183  ls -ltr
+  184  cd Worksheet1/
+  185  touch sha.txt
+  186  ls
+  187  git init
+  188  git status
+  189  git add sha.txt
+  190  git status
+  191  git config --global user.name "Dracowwe"
+  192  git config --global user.email "stevena126@gmail.com"
+  193  git remote add origin git@github.com:Dracowwe/cs131.git
+  194  git commit -m "This is my first commit!"
+  195  git branch
+  196  git checkout -b new-branch
+  197  git branch -M main
+  198  git push -u origin main
+  199  git status
+  200  history > cmds.log
+  201  git status
+  202  git add cmds.log
+  203  git status
+  204  git commit -m "History of commands"
+  205  git push --set-upstream origin master
+  206  cd
+  207  cd myproject
+  208  ls
+  209  git status
+  210  ls -ltr
+  211  history > cmds.log
+  212  git status
+  213  cd ~/.ssh && ssh-keygen
+  214  cat id_rsa.pub
+  215  git remote add origin git@github.com:Dracowwe/cs131.git
+  216  git commit -m "This is my first commit!"
+  217  git push --set-upstream origin master
+  218  cd Worksheet 1
+  219  cd Worksheet1
+  220  git push --set-upstream origin mastercd Worksheet1
+  221  history > cmds.log
+  222  ls
+  223  git rm cmd.logs
+  224  ls
+  225  git rm sha.txt
+  226  cd Worksheet2
+  227  mkdir Worksheet2
+  228  cd Worksheet2
+  229  ls
+  230  history > cmds.log
