@@ -1,0 +1,2 @@
+236 Number of lines containing "Music" in music.txt
+824 Number of counts of word "Music" in music.txt

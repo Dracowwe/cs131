@@ -1,0 +1,522 @@
+    1  git status
+    2  git add .wget.hsts
+    3  git add cmd.logs
+    4  git commit -m "Commit message."
+    5  git push origin new-branch
+    6  git push origin master
+    7  git push git@github.com:git/git.git new-branch
+    8  git config stevenf23
+    9  git config stevenf23 Steven
+   10  passwd
+   11  wget www.github.com
+   12  cd ~/Desktop
+   13  mkdir Worksheet1
+   14  history > cmd.logs
+   15  ls
+   16  touch sha.txt
+   17  ls
+   18  git-status
+   19  git status
+   20  git add sha.txt
+   21  git remote add origin https://github.com/Dracowwe/cs131.git
+   22  git init
+   23  touch sha.txt
+   24  git status
+   25  git add sha.txt
+   26  git status
+   27  git commit -m "This is my first commit."
+   28  git checkout -b new-branch
+   29  git branch
+   30  git remote add origin https://github.com/Dracowwe/cs131.git
+   31  git push origin new-branch
+   32  git branch
+   33  ls
+   34  git checkout -b master
+   35  ls
+   36  git status
+   37  git checkout -b new-branch
+   38  git status
+   39  ls
+   40  git commit -m "This is my first commit!"
+   41  git config --global user.email "stevenha126@gmail.com"
+   42  git config --global user.name "Dracowwe"
+   43  git commit -m "This is my first commit!"
+   44  git status
+   45  ls
+   46  cdgit remote add origin git@github.com:Dracowwe/cs131.git
+   47  git remote add origin git@github.com:Dracowwe/cs131.git
+   48  git push
+   49  git push --set-upstream origin new-branch
+   50  git push origin new-branch
+   51  git push -u origin master
+   52  git branch
+   53  git branch master
+   54  git push -u origin new-branch
+   55  git branch
+   56  ls
+   57  git push git@github.com:Dracowwe/cs131.git new-branch
+   58  git branch
+   59  ls
+   60  git status
+   61  cd ~/.ssh && ssh-keygen
+   62  mkdir ~/.ssh
+   63  cat id_rsa.pub
+   64  cd ~/.ssh && ssh-keygen
+   65  ls
+   66  man ls
+   67  ls
+   68  git push
+   69  git push --set-upstream origin new-branch
+   70  man dir
+   71  dir
+   72  mkdir myproject
+   73  cd ~/Desktop
+   74  cd myproject/
+   75  git init
+   76  touch sha.txt
+   77  ls
+   78  cd /c/Worksheet1
+   79  man cd
+   80  cd Worksheet1
+   81  mkdir Worksheet1
+   82  ls
+   83  git init
+   84  ls
+   85  git status
+   86  git commit
+   87  git add sha.txt
+   88  git commit 
+   89  mkdir Worksheet1
+   90  cd /c/myproject
+   91  cd myproject/
+   92  cd Worksheet1
+   93  ls
+   94  git init
+   95  touch sha.txt
+   96  ls
+   97  git add sha.txt
+   98  git status
+   99  wget www.github.com
+  100  git commit -m "This is my first commit!"
+  101  git checkout -b new-branch
+  102  git branch
+  103  git remote add origin git@github.com:Dracowwe/cs131.git
+  104  git push -u origin master
+  105   cd ~/.ssh && ssh-keygen
+  106  SHA256:XHnrXxZ/HjQQCvUdlBtN25lArlZQecSc/CMpSw5QCWo stevenf23@sjsu.pic2.isv.ihost.com
+  107  git push --set-upstream origin master
+  108  ls
+  109  cd Worksheet1
+  110  git status
+  111  cat id_rsa.pub
+  112  cd myproject
+  113  git remote -v
+  114  cat id_rsa.pub
+  115  cd ~/.ssh && ssh-keygen
+  116  cd Worksheet1
+  117  cat id_rsa.pub
+  118  cd ~/.ssh && ssh-keygen
+  119  cat id_rsa.pub
+  120  git remote add origin git@github.com:Dracowwe/cs131.git
+  121  cd ..
+  122  ls
+  123  cd Worksheet1/
+  124  ls
+  125  git status
+  126  pwd
+  127  git push --set-upstream origin master
+  128  ls
+  129  git status
+  130  wget www.github.com
+  131  git status
+  132  touch sha.txt
+  133  git status
+  134  branch master
+  135  git checkout -b master
+  136  git branch
+  137  git checkout master
+  138  git status
+  139  history > cmds.log
+  140  git status
+  141  touch sha.txt
+  142  git status
+  143  git remote add origin git@github.com:Dracowwe/cs131.git
+  144  git push -u origin master
+  145  ls -ltr
+  146  ls
+  147  git commit -m "Message"
+  148  git push --set-upstream origin master
+  149  git remote add origin ssh://git@github.com:Dracowwe/cs131.git
+  150  git push -u origin master
+  151  git remote add origin ssh://git@github.com/Dracowwe/cs131.git
+  152  git branch -M main
+  153  git branch
+  154  git push -u origin main
+  155  git config --global user.name "Dracowwe"
+  156  git config --global user.email "stevenha126@gmail.com"
+  157  git push -u origin main
+  158  cd Worksheet1
+  159  git status
+  160  touch sha.txt
+  161  git status
+  162  git add sha.txt
+  163  git status
+  164  ls
+  165  git init
+  166  git status
+  167  cd ~/.ssh && ssh-keygen
+  168  cat id_rsa.pub
+  169  git status
+  170  git remote add origin git@github.com:Dracowwe/cs131.git
+  171  git commit -m "This is my first commit!"
+  172  git push --set-upstream origin master
+  173  git branch -M main
+  174  git branch
+  175  git push -u origin main
+  176   git clone git@github.com:Dracowwe/cs131.git
+  177  cd Worksheet1
+  178  mkdir Worksheet1
+  179  ls
+  180  history > cmds.log
+  181  ls
+  182  cd Worksheet1
+  183  ls -ltr
+  184  cd Worksheet1/
+  185  touch sha.txt
+  186  ls
+  187  git init
+  188  git status
+  189  git add sha.txt
+  190  git status
+  191  git config --global user.name "Dracowwe"
+  192  git config --global user.email "stevena126@gmail.com"
+  193  git remote add origin git@github.com:Dracowwe/cs131.git
+  194  git commit -m "This is my first commit!"
+  195  git branch
+  196  git checkout -b new-branch
+  197  git branch -M main
+  198  git push -u origin main
+  199  git status
+  200  history > cmds.log
+  201  git status
+  202  git add cmds.log
+  203  git status
+  204  git commit -m "History of commands"
+  205  git push --set-upstream origin master
+  206  cd
+  207  cd myproject
+  208  ls
+  209  git status
+  210  ls -ltr
+  211  history > cmds.log
+  212  git status
+  213  cd ~/.ssh && ssh-keygen
+  214  cat id_rsa.pub
+  215  git remote add origin git@github.com:Dracowwe/cs131.git
+  216  git commit -m "This is my first commit!"
+  217  git push --set-upstream origin master
+  218  cd Worksheet 1
+  219  cd Worksheet1
+  220  git push --set-upstream origin mastercd Worksheet1
+  221  history > cmds.log
+  222  ls
+  223  git rm cmd.logs
+  224  ls
+  225  git rm sha.txt
+  226  cd Worksheet2
+  227  mkdir Worksheet2
+  228  cd Worksheet2
+  229  ls
+  230  history > cmds.log
+  231  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  232  touch counts.txt
+  233  git ls
+  234  git status
+  235  cd Worksheet2
+  236  cd ..
+  237  ls -a
+  238  cd$HOME
+  239  cd $HOME
+  240  ls -a
+  241  cd Worksheet2
+  242  git status
+  243  man ls
+  244  cd Worksheet2
+  245  spotify-2023.csv
+  246  ls
+  247  cat spotify-2023.csv
+  248  cat Global YouTube Statistics.csv
+  249  cat Statistics.csv
+  250  git status
+  251  cd ..
+  252  ls
+  253  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  254  vi Global YouTube Statistics.csv
+  255  grep -i "United States" Global YouTube Statistics.csv
+  256  ls
+  257  grep -i "United States"  Global YouTube Statistics.csv'
+  258  "q!
+  259  :q!
+  260  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  261  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  262  ls
+  263  grep -i "United States" 'Global YouTube Statistics.csv'
+  264  grep -i "Music" 'Global YouTube Statistics.csv'
+  265  wc -l
+  266  cd Worksheet2
+  267  ls
+  268  ls
+  269  cd Worksheet2
+  270  ls
+  271  git status
+  272  git add counts.txt
+  273  git add cmds.log
+  274  git status
+  275  git add cmds.log
+  276  git status
+  277  git restore cmds.log
+  278  git status
+  279  git restore --staged cmds.log
+  280  git status
+  281  git add cmds.log
+  282  git status
+  283  git config --global user.email "stevenha126@gmail.com"
+  284  git config --global user.name "Dracowwe"
+  285  git remote add origin https://github.com/Dracowwe/cs131
+  286  git push --set-upstream origin master
+  287  git commit -m "Added line counts and word counts to counts.txt file."
+  288  git push --set-upstream origin master
+  289  git branch
+  290  git push origin main
+  291  cd ..
+  292  cd ~/.ssh && ssh-keygen
+  293  cat id_rsa.pub
+  294  cd ..
+  295  cd Worksheet2
+  296  history
+  297  git init
+  298  git status
+  299  git add cmds.log
+  300  git add counts.txt
+  301  git status
+  302  git commit -m "Added line counts and word counts to counts.txt."
+  303  git push --set-upstream origin master
+  304  git remote add origin https://github.com/Dracowwe/cs131
+  305  git push --set-upstream origin master
+  306  git branch
+  307  cd Worksheet2
+  308  git push -u origin master
+  309  git branch
+  310  git remote add origin https://github.com/Dracowwe/cs131
+  311  git push -f origin master
+  312  git status
+  313  fatal: 'origin' does not appear to be a git repository
+  314  fatal: Could not read from remote repositoryfatal: 'origin' does not appear to be a git repository
+  315  fatal: Could not read from remote repository
+  316  git remote -v
+  317  git remote remove origin
+  318  git remote -v
+  319  git remote add origin ssh://github.com/Dracowwe/cs131
+  320  git remote -v
+  321  git push -u origin master
+  322  git statusgit status
+  323  git status
+  324  cd ..
+  325  ls
+  326  cat cmds.log
+  327  cat counts.txt
+  328  rmdir Worksheet2
+  329  cd Worksheet2
+  330  git status
+  331  git remove Global YouTube Statistics.csv
+  332  cd ..
+  333  rmdir -r Worksheet2
+  334  rm -r Worksheet2
+  335  ls
+  336  rm -rv Worksheet2
+  337  ls
+  338  mkdir Worksheet2
+  339  ls
+  340  cd Worksheet2
+  341  ls
+  342  git init
+  343  git status
+  344  git add cmds.log
+  345  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  346  git status
+  347  git remote add origin $HOME
+  348  git remote -v
+  349  git statsu
+  350  git status
+  351  cd ..
+  352  ls
+  353  ls
+  354  cd Worksheet2
+  355  git status
+  356  grep -i "United States" Global YouTube Statistics.csv
+  357  git add Global YouTube Statistics.csv
+  358  git add ' Global YouTube Statistics.csv'
+  359  git add 'Global YouTube Statistics.csv'
+  360  grep -i "United States" Global YouTube Statistics.csv
+  361  grep -i "United States" ' Global YouTube Statistics.csv'
+  362  grep -i "United States" 'Global YouTube Statistics.csv'
+  363  grep -i ",Music," 'Global YouTube Statistics.csv'
+  364  grep -i ",Music," 'Global YouTube Statistics.csv' >music.txt
+  365  wc -l  music.txt > counts.txt
+  366  wc -w  music.txt >> counts.txt
+  367  git status
+  368  history > cmds.log
+  369  git status
+  370  git rm 'Global YouTube Statistics.csv' 
+  371  git rm --cached 'Global YouTube Statistics.csv' 
+  372  git status
+  373  git add cmds.log
+  374  vi counts.txt
+  375  git add counts.txt
+  376  git status
+  377  git commit -m "Added counts.txt & cmds.log."
+  378  git status
+  379  git remote -v
+  380  git remote add origin https://github.com/Dracowwe/cs131
+  381  git remote -v
+  382  git push --set-upstream origin master
+  383  git remote remove $HOME
+  384  git remote remove origin
+  385  git remote -v
+  386  git remote add origin https://github.com/Dracowwe/cs131
+  387  git remote -v
+  388  git add 'Global YouTube Statistics.csv'
+  389  grep -i ",Music," 'Global YouTube Statistics.csv' >music.txt
+  390  wc -l  music.txt > counts.txt
+  391  wc -w  music.txt >> counts.txt
+  392  git rm --cached 'Global YouTube Statistics.csv' 
+  393  git add cmds.log
+  394  git add counts.txt
+  395  vi counts.txt
+  396  git push --set-upstream origin master
+  397  history
+  398  git status
+  399  history > cmds.log
+  400  git status
+  401  git add cmds.log 
+  402  git status
+  403  git add counts.txt 
+  404  git status
+  405  git commit -m "Added counts.txt & cmds.log."
+  406  git status
+  407  git push --set-upstream origin mastercd Worksheet2
+  408  git push --set-upstream origin master Worksheet2
+  409  got remote -v
+  410  git remote -v
+  411  git show-ref
+  412  git branch
+  413  git push origin HEAD:master
+  414  cd ..
+  415  cd ~/.ssh && ssh-keygen
+  416  cat id_rsa.pub
+  417  cd ..
+  418  cd Worksheet2
+  419  git push --set-upstream origin master
+  420  grep -i "Music" 'Global YouTube Statistics.csv' > music.txt
+  421  ls
+  422  vi music.txt
+  423  wc -l music.txt > counts.txt
+  424  vi counts.txt
+  425  man wc
+  426  wc -w music.txt > counts.txt
+  427  vi counts.txt
+  428  wc -l music.txt >> counts.txt
+  429  vi counts.txt
+  430  history
+  431  vi counts.txt
+  432  grep -i "Music" 'Global YouTube Statistics.csv'
+  433  vi 'Global YouTube Statistics.csv'
+  434  man regex
+  435  man grep
+  436  grep -i ",Music," 'Global YouTube Statistics.csv'
+  437  grep -i ",Music," 'Global YouTube Statistics.csv' > music.txt
+  438  vi music.txt
+  439  wc -l music.txt > counts.txt
+  440  vi counts.txt
+  441  wc -w music.txt >> counts.txt
+  442  vi counts.txt
+  443  cd Worksheet2
+  444  ls
+  445  cd..
+  446  cd ..
+  447  history > cmds.log
+  448  cd Worksheet2
+  449  git status
+  450  git push --set-upstream origin master
+  451  git config --global user.name "Dracowwe"
+  452  git config --global user.email stevenha126@gmail.com
+  453  git push --set-upstream origin master
+  454  git remote -v
+  455  git remote remove origin
+  456  git remote -v
+  457  git remote add origin ssh://git@github.com/Dracowwe/cs131.git
+  458  git remote -v
+  459  git push --set-upstream origin master
+  460  git push --help
+  461  git remote remove origin
+  462  git remote add origin ssh://git@github.com/Dracowwe/cs131.git/tree/main/Worksheet2
+  463  git remote -v
+  464  git push --set-upstream origin master
+  465  git remote remove origin
+  466  git remote add origin ssh://git@github.com/Dracowwe/cs131.git/Worksheet2
+  467  git push --set-upstream origin master
+  468  man git pull
+  469  git branch
+  470  git status
+  471  cd Worksheet2
+  472  git remove -v
+  473  git remote -v
+  474  git remote remove origin
+  475  git remote add origin ssh://git@github.com/Dracowwe/cs131/tree/main/Worksheet2
+  476  git push --set-upstream origin master
+  477  git remote remove origin
+  478  git remote add origin ssh://git@github.com/Dracowwe/cs131/tree/master/Worksheet2
+  479  git remote -v
+  480  git push --set-upstream origin master
+  481  git remote remove origin
+  482  git remote add origin ssh://git@github.com/Dracowwe/cs131/tree/master
+  483  git remote -v
+  484  git push --set-upstream origin master
+  485  git remote remove origin
+  486  git remote add origin ssh://git@github.com/Dracowwe/cs131
+  487  git push --set-upstream origin master
+  488  git pull
+  489  git status
+  490  git push origin master
+  491  git pull
+  492  git branch
+  493  git push
+  494  git push --set-upstream origin master
+  495  git pull ...
+  496  history
+  497  git clone Worksheet2
+  498  git clone cs131
+  499  git clone ssh://git@github.com/Dracowwe/cs131/tree/master/Worksheet2
+  500  git branch master
+  501  git checkout -b new_branch
+  502  git branch master
+  503  git checkout -b master
+  504  git checkout master
+  505  git remote -v
+  506  git push --set-upstream origin master
+  507  cd ..
+  508  rm -rv Worksheet2
+  509  mkdir Worksheet2
+  510  cd Worksheet2
+  511  git init
+  512  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  513  grep -i "United States" Global YouTube Statistics.csv
+  514  grep -i "United States" 'Global YouTube Statistics.csv'
+  515  git add 'Global YouTube Statistics.csv'
+  516  grep -i ",Music," 'Global YouTube Statistics.csv' > music.txt
+  517  wc -l  music.txt > counts.txt
+  518  wc -w  music.txt >> counts.txt
+  519  git status
+  520  vi counts.txt
+  521  git add counts.txt
+  522  history > cmds.log
