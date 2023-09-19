@@ -1,0 +1,16 @@
+    1  mkdir Worksheet3
+    2  cd Worksheet3
+    3  git init
+    4  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+    5  grep "^[^,]\+,[^,]\+,[^,]\+,[^,]\+,[^,]\+,[^,]\+,[^,]\+,United States," 'Global YouTube Statistics.csv' > task1.txt
+    6  grep "^[^,]\+,[^,]\+,[^,]\+,[^,]\+,[^,]\+,[^,]\+,[^,]\+,United Kingdom," 'Global YouTube Statistics.csv' >> task1.txt
+    7  grep "^[^,]\+,[^,]\+,[^,]\+,[^,]\+,[^,]\+,[^,]\+,[^,]\+,India," 'Global YouTube Statistics.csv' >> task1.txt
+sort -k 16,16 -t',' -n -r task1.txt | head > ws3.txt
+    8  grep "^[^,]\+,[^,]\+,[^,]\+,[^,]\+,Sports," 'Global YouTube Statistics.csv' > task2.txt
+    9  grep "^[^,]\+,[^,]\+,[^,]\+,[^,]\+,Education," 'Global YouTube Statistics.csv' >> task2.txt
+   10  grep "^[^,]\+,[^,]\+,[^,]\+,[^,]\+,Entertainment," 'Global YouTube Statistics.csv' >> task2.txt
+   11  sort -k 3,3 -t',' -n -r task2.txt | head >> ws3.txt
+   12  git status
+   13  vi ws3.txt
+   14  git add ws3.txt
+   15  history > cmds.log
