@@ -1,0 +1,55 @@
+1)
+mkdir Assignment1
+
+2) 
+echo $SHELL
+
+2) 
+echo $HOME
+
+3)
+cat /etc/passwd
+cat /etc/group
+
+4)
+mkdir myDir
+chmod 577 myDir
+cd myDir
+ls
+cd myDir
+ls
+ls -l
+touch sample.txt
+
+5)
+cd ..
+mkdir myDir2
+mkdir myDir3
+
+6)
+cd myDir2
+touch myFile.txt
+mv -v myDir2/myFile.txt myDir3
+ls
+cd myDir2
+ls
+cd ..
+cd myDir3
+ls
+
+6)
+cd ..
+cd ..
+free -m
+
+9)
+cat /etc/os-release
+
+10)
+ls -l /etc/os-release
+
+cd Assignment1
+touch Assignment1.txt
+vi Assignment1.txt 
+cat Assignment1.txt 
+history > cmds.log

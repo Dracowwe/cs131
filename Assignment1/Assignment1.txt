@@ -1,0 +1,19 @@
+1) mkdir Assigment1
+
+2)echo $SHELL -> /bin/bash
+
+2)echo $HOME -> /mnt/scratch/FA23_CS131_Ashish/stevenf23
+
+3) cat /etc/passwd -> 1007
+   cat /etc/group -> Group S77
+
+4) cd myDir -> yes
+   ls -> yes
+   ls -l -> yes
+   create files -> no
+
+6) free -m -> 71367
+
+9) cat /etc/os-release -> VERSION="8.6 (Ootpa)"
+
+10) ls -l /etc/os-release -> lrwxrwxrwx
