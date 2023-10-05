@@ -1,0 +1,5 @@
+Mean of number of subscribers in United States:
+23166445
+
+Mean of number of subscribers in India:
+25658333
