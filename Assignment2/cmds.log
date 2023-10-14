@@ -1,0 +1,19 @@
+mkdir Assignment2
+find /etc -type f > one.txt 2> two.txt
+vi Assignment2.txt
+cat one.txt
+cat two.txt
+vi Assignment2.txt
+cut -d"," -f 20-21 'Global YouTube Statistics.csv' | sort -t',' -k2,2 -k1,1n | uniq -c | sort -nr | head -3
+vi Assignment2.txt
+ps -u stevenf23
+vi Assignment2.txt
+vi file.txt
+ps -u stevenf23
+vi Assignment2.txt
+ps -u stevenf23
+vi Assignment2.txt
+ps aux | grep "systemd"
+vi Assignment2.txt
+mv Assignment2.txt Assignment2
+mv cmds.log Assignment2

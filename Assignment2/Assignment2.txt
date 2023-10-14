@@ -1,0 +1,49 @@
+1a: In this command, we are looking in the /etc directory for all files and redirecting the outputs into one.txt, while all the errors will be redirected from one.txt to two.txt.
+
+1b: In one.txt, we are given outputs of all files we are able to find and have access to, while in two.txt, we get the files that we don't have access to.
+
+
+
+
+2: In this command, we use cut with delimeter of comma to extract the 20th and 21st fields from the csv file. We pipe the first command to then sort by delim "," the 2nd column by month in alphabetical order and the 1st column in ascending year, then we pipe to uniq to remove the duplicate rows of each corresponding year and month and the -c will display the amount of lines that contained the same text next to each row. After that, we sort the rows in reverse numerical order to sort by year and use head -3 to get the top 3 rows.
+
+
+
+
+3: Output
+    PID TTY          TIME CMD
+3966864 ?        00:00:00 systemd
+3966866 ?        00:00:00 (sd-pam)
+3966874 ?        00:00:00 sshd
+3966880 pts/111  00:00:00 bash
+3969999 pts/111  00:00:00 ps
+
+
+
+
+4: 
+In the first terminal, 3 new rows were added to the output from question 3.
+Process ID for vim: 3970914
+
+After exiting the vi in the first terminal, only the row with the CMD vim was deleted, while the 2nd rows of sshd and bash remained. By quitting the vi in the first terminal, it had deleted the process that contained the command used to access file.txt but kept the sshd and bash processes created when the file was created and accessed.
+
+
+
+
+5:
+Initial process executed from startup that creates other processes in the system
+
+The init process ID is 1 as it is the first process that runs in the system.
+
+
+
+
+6:
+ps aux is used to print all the running process in system regardless from where they have been executed. In aux, the a prints the running processes from all users, the u shows the process's user/owner, and the x shows processes not attached to a terminal.
+
+
+
+
+
+
+
