@@ -1,0 +1,26 @@
+mkdir Worksheet5
+cd Worksheet5
+mkdir United_States
+cd ..
+vi ws5.sh
+ls -ltr
+chmod u+x ws5.sh
+ls -ltr
+./ws5.sh
+cd Worksheet5
+cd United_States
+ls
+cd ..
+cd ..
+wc -l Worksheet5/United_States/Music.txt >> ws5.txt
+wc -l Worksheet5/United_States/Entertainment.txt >> ws5.txt
+wc -l Worksheet5/United_States/Gaming.txt >> ws5.txt
+wc -l Worksheet5/United_States/Comedy.txt >> ws5.txt
+ls
+vi ws5.txt
+git add Worksheet5
+git add ws5.sh
+git add ws5.txt
+history > cmds.log
+vi cmds.log
+

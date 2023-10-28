@@ -1,0 +1,4 @@
+73 entries in Worksheet5/United_States/Music.txt
+68 entries in  Worksheet5/United_States/Entertainment.txt
+26 entries in  Worksheet5/United_States/Gaming.txt
+22 entries in  Worksheet5/United_States/Comedy.txt
