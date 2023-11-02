@@ -1,0 +1,59 @@
+mkdir Assignment3
+wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/awkdata/last.fake
+wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/awkdata/passwd.fake
+wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/awkdata/ps.fake
+cat last.fake
+cat passwd.fake
+cat ps.fake
+touch Assignment3.txt
+ls
+
+
+Task 1 Commands:
+wc -l last.fake >> Assignment3.txt
+vi Assignment3.txt
+grep "f23" last.fake >> lastf23.fake
+cat lastf23.fake
+wc -l lastf23.fake >> Assignment3.txt
+vi Assignment3.txt
+
+Task 2 Commands:
+grep "Sun" lastf23.fake
+grep "Sun" lastf23.fake | awk '{print $1}'
+grep "Sun" lastf23.fake | awk '{print $1}' | sort -r 
+grep "Sun" lastf23.fake | awk '{print $1}' | sort -r | uniq
+grep "Sun" lastf23.fake | awk '{print $1}' | sort -r | uniq | awk 'BEGIN {print "The list of people who worked on Sunday are: "} {print}; END {print "Kudos to the people for putting in the work"}'
+
+
+Task 3 Commands:
+awk '($7 >= "23:00") && ($8<="04:00") {print $1}' lastf23.fake
+awk '($7 >= "23:00") && ($8<="04:00") {print $1}' lastf23.fake | sort -r | uniq | awk 'BEGIN {print "Night Owls List: "} {print} END {print "Night Owls are dope. Please ensure you get enough sleep though."}'
+
+
+Task 4 Commands: 
+awk '($7 >= "05:00") && ($8<="09:00") {print $1}' lastf23.fake | sort -r | uniq | awk 'BEGIN {print "Early Birds List: "} {print} END {print "Early Birds are dope. Please ensure you get enough sleep though."}' 
+
+
+Task 5 Commands: 
+awk '($1 ~ /^t/) {print $1 | "sort -u"}' lastf23.fake
+
+
+Task 6 Commands: 
+awk -F: '($1 ~ /^a/) && ($3%2==0) {print $1}' passwd.fake
+
+
+Task 7 Commands:
+sed 's/[a-zA-Z0-9]//g' passwd.fake
+sed 's/[a-zA-Z0-9[:space:]]//g' passwd.fake
+sed 's/[a-zA-Z0-9[:space:]]//g' passwd.fake | sort -u
+
+mv Assignment3.txt Assignment3
+history > cmds.log
+mv cmds.log Assignment3
+ls
+cd Assignment3
+ls
+cat cmds.log
+cat Assignment3.txt
+cd ..
+git add Assignment3
